@@ -55,6 +55,12 @@
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/)|简单|否|
 |728|[自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)|简单|否|
 
+-字符串
+
+| # | 题目 | 难度 | 是否复盘 |
+|---| ----- | -------- | ---------- |
+|344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|简单|否|
+
 -其他
 
 | # | 题目 | 难度 | 是否复盘 |
