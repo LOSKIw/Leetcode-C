@@ -35,6 +35,7 @@ int minFallingPathSum(int** A, int ASize, int* AColSize) {
 	return min;
 }
 /*
+2019/7/27
 贪心+动态规划系列
 刚看完书感觉就用上了
 感觉动态规划一般都是配合着一个动态数组使用
